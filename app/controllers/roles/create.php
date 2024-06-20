@@ -20,10 +20,4 @@ $rol = $_POST['rol'];
         $_SESSION['icono'] = "error";
         header('Location: ' . $URL . '/roles/create.php');
     }
-
-
-
-
-
-
 ?>
