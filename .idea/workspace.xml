@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6e9d3eb-d1c8-40a8-bdb2-fd363322767b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SystemaVentas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/almacen/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/almacen/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/almacen/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/roles/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/roles/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/sesion.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout/sesion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/almacen/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/almacen/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/almacen/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/almacen/create.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,8 @@
       <workItem from="1718474096362" duration="436000" />
       <workItem from="1718514790316" duration="944000" />
       <workItem from="1718808600189" duration="15375000" />
-      <workItem from="1718916232447" duration="1147000" />
+      <workItem from="1718916232447" duration="3197000" />
+      <workItem from="1718919513664" duration="1956000" />
     </task>
     <servers />
   </component>
@@ -86,24 +81,8 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="0586812f-3805-4ffc-8b3d-d65b9abb2d1d" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="0586812f-3805-4ffc-8b3d-d65b9abb2d1d">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />

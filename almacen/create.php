@@ -35,7 +35,7 @@ include('../app/controllers/categorias/listado_de_categorias.php');
                         <div class="card-body" style="display: block;">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <form action="../app/controllers/almacen/create.php" method="post">
+                                    <form action="../app/controllers/almacen/create.php" method="post" enctype="multipart/form-data">
                                         <div class="row">
                                             <div class="col-md-9">
                                                 <div class="row">
@@ -116,19 +116,19 @@ include('../app/controllers/categorias/listado_de_categorias.php');
                                                     <div class="col-md-2">
                                                         <div class="form-group">
                                                             <label for="stock_minimo">Stock mínimo: </label>
-                                                            <input type="number" name="stock_minimo" class="form-control"  required>
+                                                            <input type="number" name="stock_minimo" class="form-control">
                                                         </div>
                                                     </div>
                                                     <div class="col-md-2">
                                                         <div class="form-group">
                                                             <label for="stock_maximo">Stock máximo: </label>
-                                                            <input type="number" name="stock_maximo" class="form-control" required>
+                                                            <input type="number" name="stock_maximo" class="form-control">
                                                         </div>
                                                     </div>
                                                     <div class="col-md-2">
                                                         <div class="form-group">
                                                             <label for="precio_compra">Precio compra: </label>
-                                                            <input type="number" name="precio_compra" class="form-control" irequired>
+                                                            <input type="number" name="precio_compra" class="form-control" required>
                                                         </div>
                                                     </div>
                                                     <div class="col-md-2">
